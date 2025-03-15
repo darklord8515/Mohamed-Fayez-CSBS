@@ -2,7 +2,7 @@
 
 int main() {
     int number;
-    unsigned long long factorial = 1;
+    factorial = 1;
 
     std::cout << "Enter a positive integer: ";
     std::cin >> number;
